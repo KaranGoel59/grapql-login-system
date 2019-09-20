@@ -1,0 +1,12 @@
+{
+    "rules": {
+      "object-literal-sort-keys": false,
+      "no-shadowed-variable": false,
+      "arrow-return-shorthand": true,
+      "semicolon": [
+        true,
+        "always"
+      ]
+    }
+  }
+  
