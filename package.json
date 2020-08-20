@@ -14,7 +14,7 @@
   "dependencies": {
     "apollo-server-express": "^2.9.3",
     "await-to-js": "^2.1.1",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "dataloader-sequelize": "^2.0.1",
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
